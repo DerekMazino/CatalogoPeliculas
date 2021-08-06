@@ -1,0 +1,9 @@
+com/camilo/catalogopeliculas/servicio/CatalogoPeliculasImpl.class
+com/camilo/catalogopeliculas/domain/Pelicula.class
+com/camilo/catalogopeliculas/datos/AccesoDatosImpl.class
+com/camilo/catalogopeliculas/servicio/ICatalogoPeliculas.class
+com/camilo/catalogopeliculas/presentacion/CatalogoPeliculasPresentacion.class
+com/camilo/catalogopeliculas/datos/IAccesoDatos.class
+com/camilo/catalogopeliculas/excepciones/EscrituraDatosEx.class
+com/camilo/catalogopeliculas/excepciones/LecturaDatosEx.class
+com/camilo/catalogopeliculas/excepciones/AccesoDatosEx.class

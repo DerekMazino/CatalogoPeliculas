@@ -1,0 +1,9 @@
+/Users/camilo/Documents/Tutorias/2021/Tutoria170421/CatalogoPeliculas/src/main/java/com/camilo/catalogopeliculas/domain/Pelicula.java
+/Users/camilo/Documents/Tutorias/2021/Tutoria170421/CatalogoPeliculas/src/main/java/com/camilo/catalogopeliculas/excepciones/LecturaDatosEx.java
+/Users/camilo/Documents/Tutorias/2021/Tutoria170421/CatalogoPeliculas/src/main/java/com/camilo/catalogopeliculas/presentacion/CatalogoPeliculasPresentacion.java
+/Users/camilo/Documents/Tutorias/2021/Tutoria170421/CatalogoPeliculas/src/main/java/com/camilo/catalogopeliculas/excepciones/EscrituraDatosEx.java
+/Users/camilo/Documents/Tutorias/2021/Tutoria170421/CatalogoPeliculas/src/main/java/com/camilo/catalogopeliculas/datos/IAccesoDatos.java
+/Users/camilo/Documents/Tutorias/2021/Tutoria170421/CatalogoPeliculas/src/main/java/com/camilo/catalogopeliculas/servicio/CatalogoPeliculasImpl.java
+/Users/camilo/Documents/Tutorias/2021/Tutoria170421/CatalogoPeliculas/src/main/java/com/camilo/catalogopeliculas/excepciones/AccesoDatosEx.java
+/Users/camilo/Documents/Tutorias/2021/Tutoria170421/CatalogoPeliculas/src/main/java/com/camilo/catalogopeliculas/datos/AccesoDatosImpl.java
+/Users/camilo/Documents/Tutorias/2021/Tutoria170421/CatalogoPeliculas/src/main/java/com/camilo/catalogopeliculas/servicio/ICatalogoPeliculas.java
